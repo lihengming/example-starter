@@ -1,0 +1,2 @@
+# example-starter
+init~
